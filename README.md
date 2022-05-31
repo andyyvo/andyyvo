@@ -5,7 +5,7 @@
 </h1>
 
 <p align='left'>
-  I'm currently a senior at Boston University studying Computer Science and I design/develop mobile and web apps for freelancing work on the side. I have a passion for storytelling and I share that through my class, personal, and professional projects. Feel free to take a look at some of my work on <a href="https://andyvo.com">my website</a>. If you have an idea in mind, let's set up a coffee chat ☕ !
+  I'm an alumnus of Boston University, incoming UC Berkeley MIMS candidate, and I design/develop mobile and web apps for freelancing work on the side. I have a passion for storytelling and I share that through personal and professional projects. Feel free to take a look at some of my work on <a href="https://andyvo.com">my website</a>. If you have an idea in mind, let's set up a coffee chat ☕ !
 </p>
 
 <h2 align='left'>
@@ -13,7 +13,7 @@
 </h2>
 
 <p align='left'>
-  <a href="https://github.com/andyyvo/ShowGo/"><b>ShowGo</b></a> - a native Android mobile application using Java and Google Firebase that alows users to match and message others based on their music preferences from the Spotify API and suggest nearby concerts to attend via the TicketMaster API and Google Maps API.
+  <a href="https://patternfly-react-main.surge.sh/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hate UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way.
 </p>
 
 <h2 align='left'>
