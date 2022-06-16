@@ -13,7 +13,7 @@
 </h2>
 
 <p align='left'>
-  <a href="https://www.patternfly.org/v4/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hate UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way.
+  <a href="https://www.patternfly.org/v4/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hat UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way.
 </p>
 
 <h2 align='left'>
