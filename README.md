@@ -13,7 +13,11 @@
 </h2>
 
 <p align='left'>
-  <a href="https://www.patternfly.org/v4/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hat UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way.
+  <a href="https://www.patternfly.org/v4/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hat UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way. As of current, I've worked on accessibility (a11y) issues, converted examples from JavaScript to TypeScript, and focused my work on revamping unit tests for components to meet our new React testing library standards and methodology.
+</p>
+
+<p align='left'>
+  <a href="https://github.com/quipucords/quipucords-ui"><b>Quipucords</b></a> - Red Hat's tool for discovery, inspection, collection, deduplication, and reporting on an IT environment. I'm utilizing my experience working with the PF4 Team to migrate the user interface from PF3 to PF4.
 </p>
 
 <h2 align='left'>
