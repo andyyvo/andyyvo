@@ -1,23 +1,23 @@
 [![andy vo header](github_banner.png)](https://andyvo.com)
 
 <h1 align='left'>
-  Hey there! My name's Andy 👋
+  Hello there! My name's Andy 👋
 </h1>
 
 <p align='left'>
-  I'm an alumnus of Boston University, incoming UC Berkeley MIMS candidate, and I design/develop mobile and web apps for freelancing work on the side. I have a passion for storytelling and I share that through personal and professional projects. Feel free to take a look at some of my work on <a href="https://andyvo.com">my website</a>. If you have an idea in mind, let's set up a coffee chat ☕ !
+  Welcome to my GitHub where I upload anything and everything I feel like coding :DDD If I'm not staring at job offer letter in today's economy, you can find me at UC Berkeley as a MIMS candidate, at Adobe as a Full-Stack Engineer, or on the street rollerblading. Feel free to take a look at some of my work on <a href="https://andyvo.com">my website</a>. If you have an idea in mind, let's set up a coffee chat ☕ !
 </p>
 
 <h2 align='left'>
-  Current Project 👨‍💻
+  Current Projects 👨‍💻
 </h2>
 
 <p align='left'>
-  <a href="https://www.patternfly.org/v4/"><b>PatternFly 4</b></a> - Red Hat's open source design system. As a Red Hat UXD Software Engineering Intern for the UXD Team, I'm excited to be contributing the open source way. As of current, I've worked on accessibility (a11y) issues, converted examples from JavaScript to TypeScript, and focused my work on revamping unit tests for components to meet our new React testing library standards and methodology.
+  <a href="https://github.com/org-synthesis/"><b>Synthesis</b></a> - Startup???
 </p>
 
 <p align='left'>
-  <a href="https://github.com/quipucords/quipucords-ui"><b>Quipucords</b></a> - Red Hat's tool for discovery, inspection, collection, deduplication, and reporting on an IT environment. I'm utilizing my experience working with the PF4 Team to migrate the user interface from PF3 to PF4.
+  <a href="https://business.adobe.com/products/experience-manager/assets/aem-assets.html"><b>Adobe AEM DAM</b></a> - What is this? Well, think of AEM DAM like this. We have phones and our phones have a camera roll that we use for all sorts of things: memories, screenshots, graphics, schedules, etc. Businesses need the same thing but more for corporate-level needs. That's AEM DAM.
 </p>
 
 <h2 align='left'>
@@ -29,17 +29,10 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   &nbsp;
-  and a lot more 😅
 </p>
   
 <h2 align='left'>
@@ -55,7 +48,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:andyvo@bu.edu">
+  <a href="mailto:andyvo@berkeley.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
